@@ -32,7 +32,7 @@
     "flaverr": "^1.8.0",
     "parley": "^3.3.2",
     "prompt": "0.2.14",
-    "sails-disk": "^1.0.0-0",
+    "sails-disk": "git+https://github.com/mcchin/sails-disk.git",
     "waterline": "^0.13.5-0",
     "waterline-utils": "^1.0.0"
   },
